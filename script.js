@@ -33,12 +33,12 @@ const CONFIG = {
 
 // Enlaces específicos para las imágenes de cat2
 const LINK_MAPS_CAT2 = {
-    "assets/gallery/cat2/1.jpg": "https://memorama-mochila-ingles.surge.sh/",
-    "assets/gallery/cat2/2.jpg": "https://anuario-ogs-ingles.surge.sh/",
-    "assets/gallery/cat2/3.jpg": "https://calendario-demo.surge.sh/",
-    "assets/gallery/cat2/4.jpg": "https://portafolio-venta-diario.surge.sh/",
-    "assets/gallery/cat2/5.jpg": "https://masventa.github.io/bmw-ags/",
-    "assets/gallery/cat2/6.jpg": "https://solitaire-hotel.surge.sh/"
+    "assets/gallery/cat2/1.jpg": "https://memorama-ingles.pideya.contact/",
+    "assets/gallery/cat2/2.jpg": "https://anuario.pideya.contact/",
+    "assets/gallery/cat2/3.jpg": "https://calendario.pideya.contact/",
+    "assets/gallery/cat2/4.jpg": "https://portafolio.pideya.contact/",
+    "assets/gallery/cat2/5.jpg": "https://demo-autos.pideya.contact/",
+    "assets/gallery/cat2/6.jpg": "https://solitario.pideya.contact/"
 };
 
 let currentGallery = [];
